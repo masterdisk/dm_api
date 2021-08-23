@@ -1,0 +1,22 @@
+{
+  "name": "dm_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterdisk/dm_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterdisk/dm_api/issues"
+  },
+  "engines": {
+    "node": "14.5.3"
+  },
+  "homepage": "https://github.com/masterdisk/dm_api#readme"
+}
