@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/masterdisk/dm_api/issues"
   },
-  "engines": {
-    "node": "14.5.3"
-  },
   "homepage": "https://github.com/masterdisk/dm_api#readme"
 }
